@@ -1,0 +1,10 @@
+
+# nested repos / generated
+Micro-XRCE-DDS-Gen/
+build/
+
+# ROS/colcon artifacts
+build/
+install/
+log/
+logs/
